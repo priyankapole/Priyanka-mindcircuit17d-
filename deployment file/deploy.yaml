@@ -30,4 +30,4 @@ spec:
       - name: facebook-container
         image: priyankapole/devopstraining13:xyz
         ports:
-        - containerPort: 8081
+        - containerPort: 8080
