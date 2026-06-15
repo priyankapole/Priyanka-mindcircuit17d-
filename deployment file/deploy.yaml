@@ -28,6 +28,6 @@ spec:
     spec:
       containers: 
       - name: facebook-container
-        image: priyankapole/devopstraining13:11
+        image: priyankapole/devopstraining13:12
         ports:
         - containerPort: 8080
